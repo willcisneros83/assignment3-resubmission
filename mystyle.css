@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color: rgb(231, 231, 231);
+    font-family: Arial;
+    font-style: italic;
+}
+
+Header{
+    background-color: #007add;
+    text-align:center;
+    height:100px;
+    padding:20px;
+    
+}  
+.subtitle{
+    text-align: center;
+    margin:30px;
+    font-weight: 300;
+}
+footer{
+    text-align: center;
+    font-weight: bold;
+}
+.menu{
+    color: white;
+    text-decoration: none;
+    text-shadow: 2px 2px black;
+    margin-right: 20px;
+}
+
+ul,ol{
+    margin-left: 50px;
+}
+ul.projects{
+    background-color: gray;
+    padding: 20px;
+}
+ul li{
+    background-color: yellow;
+    margin: 5px;
+    padding: 5px;
+}
+
+ol{
+background-color: blue;
+padding:30px;
+margin: 20px;
+color: white;
+}
+
+ol li{
+    background-color:gray;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+   
+}
